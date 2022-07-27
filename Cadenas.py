@@ -1,3 +1,9 @@
+from tkinter.messagebox import YES
+
+
 texto= "Phyton"
-print(texto(1)
+print(texto.upper)
+YES
+
+
 
