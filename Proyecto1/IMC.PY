@@ -10,7 +10,8 @@ personas = int(input( "Cantidad de personas: "))
 nombre= input("Ingrese su nombre: ")
 apellidoP= (input("Ingrese su apellido Paterno: "))
 apellidoM= input("Ingrese su apellido Materno: ")
-edad= int(input("Ingrese su edad: "))
+
+fedad= int(input("Ingrese su edad: "))
 peso= float(input(("Ingrese su peso en kilogramos: ")))
 estatura= float(input("Ingrese su estatura en metros :"))
 
